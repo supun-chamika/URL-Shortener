@@ -1,7 +1,7 @@
 import requests
 
-# your API key in Cuttly
-API_key = "ef15e5053f562930d0b6fc946f49294a1bd0e"
+# enter the API key got from Cuttly
+API_key = "insert your API key here"
 
 # get the URL you want to shorten
 URL = input('Enter The URL: ')
